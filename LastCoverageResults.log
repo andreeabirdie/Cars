@@ -1,0 +1,21 @@
+[2019-03-31 21:00:28] [info] Start Program:
+Path:"C:\Users\Birdie\Desktop\labOOP\lab5-VrabieAndreea\Debug\oop_lab2-4.exe"
+Arguments:
+Working directory: "C:\Users\Birdie\Desktop\labOOP\lab5-VrabieAndreea\oop_lab2-4\"
+Modules: Selected: C:\Users\Birdie\Desktop\labOOP\lab5-VrabieAndreea\Debug\oop_lab2-4.exe Excluded: 
+Sources: Selected: C:\Users\Birdie\Desktop\labOOP\lab5-VrabieAndreea\oop_lab2-4 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Birdie\AppData\Local\Temp\2qcmlfjr.qm2 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-03-31 21:00:28] [info] Module: C:\Users\Birdie\Desktop\labOOP\lab5-VrabieAndreea\Debug\oop_lab2-4.exe is selected because it matches selected pattern: C:\Users\Birdie\Desktop\labOOP\lab5-VrabieAndreea\Debug\oop_lab2-4.exe
+[2019-03-31 21:00:29] [info] ----------------------------------------------------
+[2019-03-31 21:00:29] [info] Coverage binary generated in file: C:\Users\Birdie\AppData\Local\Temp\2qcmlfjr.qm2
+[2019-03-31 21:00:29] [info] ----------------------------------------------------
